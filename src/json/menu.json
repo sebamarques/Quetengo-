@@ -1,0 +1,32 @@
+[
+            {
+                "dia":"Lunes",
+                "mañana":"gordo",
+                "noche": "gordo"
+            },
+            {"dia":"Martes",
+                "mañana": "gordo",
+                "noche": "gordo"
+            },
+            {"dia":"Miercoles",
+                "mañana": "gorod",
+                "noche": "gordo"
+            },
+            {"dia":"Jueves",
+                "mañana": "gordo",
+                "noche": "gprdo"
+            },
+            {"dia":"Viernes",
+                "mañana": "gordo",
+                "noche": "gordo"
+            },
+            {"dia":"Sabado",
+                "mañana": "gordo",
+                "noche": "goro"
+            },
+            {"dia":"Domingo",
+                "mañana": "chupon",
+                "noche": "Magdalenas"
+            } 
+
+]
